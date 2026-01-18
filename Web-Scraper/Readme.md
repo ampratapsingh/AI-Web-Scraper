@@ -37,7 +37,7 @@ Before running the project, ensure you have:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/web-scraper.git
+git clone https://github.com/ampratapsingh/AI-Web-Scraper
 cd web-scraper
 
 ```
